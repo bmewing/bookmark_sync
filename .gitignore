@@ -1,0 +1,9 @@
+# package directories
+bsync-backend/node_modules
+bsync-backend/jspm_packages
+
+# Serverless directories
+bsync-backend/.serverless
+
+#pycharm stuff
+.idea
