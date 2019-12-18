@@ -1,0 +1,349 @@
+[{
+    "children": [{
+        "children": [{
+            "dateAdded": 1433336655000,
+            "id": "7",
+            "index": 0,
+            "parentId": "1",
+            "title": "Bookmarks",
+            "url": "chrome://bookmarks/"
+        }, {
+            "children": [{
+                "children": [{
+                    "dateAdded": 1518447190000,
+                    "id": "18",
+                    "index": 0,
+                    "parentId": "17",
+                    "title": "Creating a basic website with Express.js",
+                    "url": "https://dev.to/aurelkurtula/creating-a-basic-website-with-expressjs-j92"
+                }, {
+                    "dateAdded": 1518447199000,
+                    "id": "19",
+                    "index": 1,
+                    "parentId": "17",
+                    "title": "Building a RESTful API with Express and MongoDB",
+                    "url": "https://dev.to/aurelkurtula/building-a-restful-api-with-express-and-mongodb--3mmh"
+                }, {
+                    "dateAdded": 1518641206000,
+                    "id": "20",
+                    "index": 2,
+                    "parentId": "17",
+                    "title": "Creating a Single Page Todo App with Node and Angular ― Scotch",
+                    "url": "https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular"
+                }, {
+                    "dateAdded": 1539543773000,
+                    "id": "21",
+                    "index": 3,
+                    "parentId": "17",
+                    "title": "Dockerizing a Node.js web app | Node.js",
+                    "url": "https://nodejs.org/en/docs/guides/nodejs-docker-webapp/"
+                }, {
+                    "dateAdded": 1568654230477,
+                    "id": "76",
+                    "index": 4,
+                    "parentId": "17",
+                    "title": "A Complete Beginner's Guide to Django",
+                    "url": "https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/"
+                }],
+                "dateAdded": 1549029298667,
+                "dateGroupModified": 1568654244206,
+                "id": "17",
+                "index": 0,
+                "parentId": "9",
+                "title": "Web"
+            }, {
+                "dateAdded": 1429789809000,
+                "id": "22",
+                "index": 1,
+                "parentId": "9",
+                "title": "How To Add Swap on Ubuntu 12.04 | DigitalOcean",
+                "url": "https://www.digitalocean.com/community/articles/how-to-add-swap-on-ubuntu-12-04"
+            }, {
+                "dateAdded": 1458772122000,
+                "id": "23",
+                "index": 2,
+                "parentId": "9",
+                "title": "Creating a Hike For Garmin GPS - HikingGuy.com",
+                "url": "https://hikingguy.com/how-to-hike/creating-a-hike-garmin-gps/"
+            }, {
+                "dateAdded": 1460035698000,
+                "id": "24",
+                "index": 3,
+                "parentId": "9",
+                "title": "Document your hike with interactive leaflets and R",
+                "url": "http://blog.revolutionanalytics.com/2015/12/document-hikes-with-interactive-leaftlets-and-r.html"
+            }, {
+                "dateAdded": 1525529125000,
+                "id": "25",
+                "index": 4,
+                "parentId": "9",
+                "title": "Using AI to Determine Strategy in Machi Koro",
+                "url": "http://maxcandocia.com/article/2017/Jul/30/using-ai-for-machi-koro-strategy/?fetch_type=related&ord=1"
+            }, {
+                "dateAdded": 1568207061413,
+                "id": "72",
+                "index": 5,
+                "parentId": "9",
+                "title": "Serverless Framework Tutorial for Beginners Using AWS Lambda",
+                "url": "https://devopscube.com/serverless-framework-tutorial/"
+            }, {
+                "dateAdded": 1569241285467,
+                "id": "78",
+                "index": 6,
+                "parentId": "9",
+                "title": "Deploy a Node app to AWS ECS with Dynamic Port mapping - DEV Community 👩‍💻👨‍💻",
+                "url": "https://dev.to/ryands17/deploy-a-node-app-to-aws-ecs-with-dynamic-port-mapping-38gd"
+            }, {
+                "dateAdded": 1571918830217,
+                "id": "85",
+                "index": 7,
+                "parentId": "9",
+                "title": "kay-is/react-from-zero: A simple (99% ES2015 less) tutorial for React",
+                "url": "https://github.com/kay-is/react-from-zero"
+            }],
+            "dateAdded": 1549029298665,
+            "dateGroupModified": 1572621596504,
+            "id": "9",
+            "index": 1,
+            "parentId": "1",
+            "title": "Programming"
+        }, {
+            "children": [{
+                "dateAdded": 1519656322000,
+                "id": "27",
+                "index": 0,
+                "parentId": "26",
+                "title": "RSSD",
+                "url": "https://lxnvabarstudio.emn.com/"
+            }, {
+                "dateAdded": 1519656345000,
+                "id": "28",
+                "index": 1,
+                "parentId": "26",
+                "title": "RSSP",
+                "url": "https://lxnvabaadmin.emn.com/"
+            }, {
+                "dateAdded": 1517859411000,
+                "id": "29",
+                "index": 2,
+                "parentId": "26",
+                "title": "VSTS",
+                "url": "https://eastmanchem.visualstudio.com/_projects"
+            }, {
+                "dateAdded": 1534188712000,
+                "id": "31",
+                "index": 3,
+                "parentId": "26",
+                "title": "scheduleR",
+                "url": "https://lxnvabaadmin:6311/#!/"
+            }, {
+                "dateAdded": 1536938122000,
+                "id": "32",
+                "index": 4,
+                "parentId": "26",
+                "title": "Cronicle",
+                "url": "https://lxnvabaadmin.emn.com:6311/#Home"
+            }, {
+                "dateAdded": 1551370545860,
+                "id": "53",
+                "index": 5,
+                "parentId": "26",
+                "title": "Cronicle Dev",
+                "url": "https://lxnvabarstudio.emn.com:6311/#Home"
+            }, {
+                "children": [{
+                    "dateAdded": 1541597868000,
+                    "id": "34",
+                    "index": 0,
+                    "parentId": "33",
+                    "title": "IG2",
+                    "url": "https://eastman--ig2.cs93.my.salesforce.com/"
+                }, {
+                    "dateAdded": 1543343002000,
+                    "id": "35",
+                    "index": 1,
+                    "parentId": "33",
+                    "title": "Appexchange | Salesforce Developers",
+                    "url": "https://developer.salesforce.com/platform/appexchange"
+                }, {
+                    "dateAdded": 1551100003677,
+                    "id": "48",
+                    "index": 2,
+                    "parentId": "33",
+                    "title": "Home | Salesforce",
+                    "url": "https://eastman.lightning.force.com/lightning/page/home"
+                }, {
+                    "dateAdded": 1551363677032,
+                    "id": "52",
+                    "index": 3,
+                    "parentId": "33",
+                    "title": "UAT SFDC",
+                    "url": "https://eastman--uat.cs59.my.salesforce.com/"
+                }],
+                "dateAdded": 1549029298669,
+                "dateGroupModified": 1551370545860,
+                "id": "33",
+                "index": 6,
+                "parentId": "26",
+                "title": "SFDC"
+            }, {
+                "dateAdded": 1562858046373,
+                "id": "61",
+                "index": 7,
+                "parentId": "26",
+                "title": "(TEST) RStudio Connect",
+                "url": "https://lxnvabarstudio.emn.com/connect/"
+            }, {
+                "dateAdded": 1567529891702,
+                "id": "65",
+                "index": 8,
+                "parentId": "26",
+                "title": "AWS Training Console",
+                "url": "http://awsconsoletrn/"
+            }, {
+                "dateAdded": 1567776862934,
+                "id": "66",
+                "index": 9,
+                "parentId": "26",
+                "title": "Testing Parameters Proposal.docx",
+                "url": "https://eastmanchem.sharepoint.com/:w:/s/weatherbasedformicacidforecasting/Eeyj0zQLeG5AjiH5DBaXC1QB3z3_QCH8G4ke_ihBnrb1YQ?rtime=1Bmwbc4y10g"
+            }, {
+                "children": [{
+                    "dateAdded": 1569331962804,
+                    "id": "80",
+                    "index": 0,
+                    "parentId": "81",
+                    "title": "PJ42606 Applications Modeling - Home",
+                    "url": "https://eastmanchem.sharepoint.com/sites/PJ42606-ApModel?e=1%3A3b1a2e90902b4f3a9f6ff2852040423a"
+                }],
+                "dateAdded": 1569331979327,
+                "dateGroupModified": 1570204085609,
+                "id": "81",
+                "index": 10,
+                "parentId": "26",
+                "title": "Sharepoint"
+            }, {
+                "dateAdded": 1570204085609,
+                "id": "83",
+                "index": 11,
+                "parentId": "26",
+                "title": "Access Panel Applications",
+                "url": "https://account.activedirectory.windowsazure.com/r#/applications"
+            }, {
+                "dateAdded": 1573054686203,
+                "id": "89",
+                "index": 12,
+                "parentId": "26",
+                "title": "Microsoft Certified: Azure Data Scientist Associate - Learn | Microsoft Docs",
+                "url": "https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist?wt.mc_id=learningredirect_certs-web-wwl"
+            }],
+            "dateAdded": 1549029298668,
+            "dateGroupModified": 1573054689172,
+            "id": "26",
+            "index": 2,
+            "parentId": "1",
+            "title": "Work"
+        }, {
+            "dateAdded": 1469729256000,
+            "id": "36",
+            "index": 3,
+            "parentId": "1",
+            "title": "Free Learning",
+            "url": "https://www.packtpub.com/packt/offers/free-learning"
+        }, {
+            "dateAdded": 1520957829000,
+            "id": "37",
+            "index": 4,
+            "parentId": "1",
+            "title": "AWS Console",
+            "url": "https://243701628035.signin.aws.amazon.com/console"
+        }, {
+            "dateAdded": 1539357619000,
+            "id": "38",
+            "index": 5,
+            "parentId": "1",
+            "title": "True Novelist - Write Your Novel",
+            "url": "https://www.truenovelist.com/"
+        }, {
+            "dateAdded": 1546090703000,
+            "id": "39",
+            "index": 6,
+            "parentId": "1",
+            "title": "How to Publish a Board Game - Facade Games",
+            "url": "https://facadegames.com/blogs/news/how-to-publish-a-board-game"
+        }, {
+            "dateAdded": 1546387195000,
+            "id": "40",
+            "index": 7,
+            "parentId": "1",
+            "title": "2019 Warmachine/Hordes Point-a-Day Painting Challenge - Google Sheets",
+            "url": "https://docs.google.com/spreadsheets/d/1isX37DYTVyh60_06OLABZSg_kwWLtS5KH7nMHHW5Kso/edit?fbclid=IwAR1yL9AEhbAtr-TerQpQ1vI5rAmSvd3DItDdgtLpL_wDcrM5Ack3wAoitEY#gid=716386321"
+        }, {
+            "dateAdded": 1575564993619,
+            "id": "91",
+            "index": 8,
+            "parentId": "1",
+            "title": "Records Management",
+            "url": "https://eastmanchem.sharepoint.com/sites/RecordsMgmt2"
+        }, {
+            "dateAdded": 1576677412900,
+            "id": "93",
+            "index": 9,
+            "parentId": "1",
+            "title": "MonPoc Cards",
+            "url": "http://karlmarkovich.com/MonPoc/cards/MonPocCards.html"
+        }],
+        "dateAdded": 1549029101226,
+        "dateGroupModified": 1576677412900,
+        "id": "1",
+        "index": 0,
+        "parentId": "0",
+        "title": "Bookmarks"
+    }, {
+        "children": [{
+            "dateAdded": 1549477782879,
+            "id": "44",
+            "index": 0,
+            "parentId": "2",
+            "title": "WebAIM: Color Contrast Checker",
+            "url": "https://webaim.org/resources/contrastchecker/?fcolor=FF0000&bcolor=326598"
+        }, {
+            "dateAdded": 1554841731955,
+            "id": "57",
+            "index": 1,
+            "parentId": "2",
+            "title": "Paint Color Comparison Chart - Google Sheets",
+            "url": "https://docs.google.com/spreadsheets/d/1xl-x9eW3bLw5eqDeNUG2JUwn2EZwn34TDKfNIg5uul4/edit#gid=1"
+        }, {
+            "dateAdded": 1568118793935,
+            "id": "67",
+            "index": 2,
+            "parentId": "2",
+            "title": "21 Words To Never Include In Your Resume | Glassdoor Blog",
+            "url": "https://www.glassdoor.com/blog/21-words-to-never-include-in-your-resume/"
+        }, {
+            "dateAdded": 1568118799932,
+            "id": "68",
+            "index": 3,
+            "parentId": "2",
+            "title": "How to make your tech LinkedIn profile rock - DEV Community 👩‍💻👨‍💻",
+            "url": "https://dev.to/stetsenko_me/how-to-make-your-tech-linkedin-profile-rock-54ge"
+        }, {
+            "dateAdded": 1572621596504,
+            "id": "87",
+            "index": 4,
+            "parentId": "2",
+            "title": "G.SKILL Ripjaws Series 32GB (2 x 16GB) 260-Pin DDR4 SO-DIMM DDR4 2666 (PC4 21300) Laptop Memory Model F4-2666C18D-32GRS - Newegg.com",
+            "url": "https://www.newegg.com/g-skill-32gb-260-pin-ddr4-so-dimm/p/N82E16820232169"
+        }],
+        "dateAdded": 1549029101226,
+        "dateGroupModified": 1575564993619,
+        "id": "2",
+        "index": 1,
+        "parentId": "0",
+        "title": "Other bookmarks"
+    }],
+    "dateAdded": 1576608400850,
+    "id": "0",
+    "title": ""
+}]
