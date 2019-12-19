@@ -4,21 +4,35 @@ const git = require('isomorphic-git');
 const fs = require('fs');
 
 git.plugins.set('fs', fs);
-const s3 = new AWS.S3()
+const s3 = new AWS.S3();
 
 async function download_bookmarks(key) {
     let params = {
         Bucket: "bsync-backend",
         Key: key+"/bookmarks.json"
     };
-    s3.getObject(params, (err, data) => {
-        let res = err ? "ERROR" : data;
-        return res
-    })
+    let content = s3.getObject(params, (err, data) => {
+        return err ? {Body: "ERROR"} : data;
+    });
+    await new Promise((resolve, reject) => fs.writeFile(
+        'bookmarks.json',
+        content.response.data.Body.toString('utf-8'),
+        (err) => err ? reject(err) : resolve()
+    ));
+    await git.add({dir: '', filepath: 'bookmarks.json'});
+    return await git.commit({
+        dir: '',
+        author: {
+            name: 'AWS Lambda',
+            email: 'example@example.com'
+        },
+        message: 'Initial commit'
+    });
 }
 
-async function initialize() {
+async function initialize(key) {
     await git.init({dir: '' })
+    await download_bookmarks(key)
 }
 
 module.exports.hello = async event => {
