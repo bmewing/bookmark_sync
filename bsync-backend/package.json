@@ -1,0 +1,16 @@
+{
+  "name": "bsync-backend",
+  "version": "0.0.1",
+  "description": "AWS Lambda functions to support bookmark synchronization",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Ewing",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.593.0",
+    "fs": "latest",
+    "isomorphic-git": "latest"
+  }
+}

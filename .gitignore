@@ -4,6 +4,7 @@ bsync-backend/jspm_packages
 
 # Serverless directories
 bsync-backend/.serverless
+bsync-backend/node_modules
 
 #pycharm stuff
 .idea
