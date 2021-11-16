@@ -9,7 +9,7 @@
   "author": "Mark Ewing",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.593.0",
+    "aws-sdk": "^2.814.0",
     "fs": "latest",
     "isomorphic-git": "latest"
   }
